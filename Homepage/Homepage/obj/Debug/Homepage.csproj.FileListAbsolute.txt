@@ -1,0 +1,40 @@
+D:\C# Testing\Homepage\Homepage\bin\roslyn\csc.exe
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# Testing\Homepage\Homepage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# Testing\Homepage\Homepage\bin\roslyn\System.Collections.Immutable.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# Testing\Homepage\Homepage\bin\roslyn\vbc.exe
+D:\C# Testing\Homepage\Homepage\bin\roslyn\VBCSCompiler.exe
+D:\C# Testing\Homepage\Homepage\bin\roslyn\VBCSCompiler.exe.config
+D:\C# Testing\Homepage\Homepage\bin\Homepage.dll.config
+D:\C# Testing\Homepage\Homepage\bin\Homepage.dll
+D:\C# Testing\Homepage\Homepage\bin\Homepage.pdb
+D:\C# Testing\Homepage\Homepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# Testing\Homepage\Homepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# Testing\Homepage\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+D:\C# Testing\Homepage\Homepage\obj\Debug\Homepage.dll
+D:\C# Testing\Homepage\Homepage\obj\Debug\Homepage.pdb
+D:\Homepage\Homepage\bin\roslyn\csc.exe
+D:\Homepage\Homepage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Homepage\Homepage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Homepage\Homepage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Homepage\Homepage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Homepage\Homepage\bin\roslyn\System.Collections.Immutable.dll
+D:\Homepage\Homepage\bin\roslyn\System.Reflection.Metadata.dll
+D:\Homepage\Homepage\bin\roslyn\vbc.exe
+D:\Homepage\Homepage\bin\roslyn\VBCSCompiler.exe
+D:\Homepage\Homepage\bin\roslyn\VBCSCompiler.exe.config
+D:\Homepage\Homepage\bin\Homepage.dll.config
+D:\Homepage\Homepage\bin\Homepage.dll
+D:\Homepage\Homepage\bin\Homepage.pdb
+D:\Homepage\Homepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Homepage\Homepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Homepage\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+D:\Homepage\Homepage\obj\Debug\Homepage.dll
+D:\Homepage\Homepage\obj\Debug\Homepage.pdb
